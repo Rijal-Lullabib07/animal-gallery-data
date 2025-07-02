@@ -1,0 +1,58 @@
+[
+  {
+    "judul": "Singa",
+    "subJudul": "Raja Hutan dari Afrika",
+    "rating": 4.8,
+    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/singa.jpg",
+    "deskripsi": "Singa (Panthera leo) adalah spesies hewan dari keluarga felidae atau jenis kucing. Singa merupakan hewan yang hidup dalam kelompok. Biasanya terdiri dari seekor jantan dan banyak betina. Kelompok ini menjaga dan memburu mangsa bersama."
+  },
+  {
+    "judul": "Gajah",
+    "subJudul": "Mamalia Darat Terbesar",
+    "rating": 4.7,
+    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/gajah.jpg",
+    "deskripsi": "Gajah adalah mamalia darat terbesar di dunia. Mereka dikenal karena belalainya yang panjang, yang digunakan untuk berbagai hal seperti bernapas, mengambil air, dan mengambil benda. Gading mereka yang berharga sering menjadi target perburuan liar."
+  },
+  {
+    "judul": "Harimau Sumatra",
+    "subJudul": "Kucing Besar Asli Indonesia",
+    "rating": 4.9,
+    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/harimau.jpg",
+    "deskripsi": "Harimau Sumatra (Panthera tigris sumatrae) adalah subspesies harimau yang habitat aslinya di pulau Sumatra. Ia merupakan salah satu dari enam subspesies harimau yang masih bertahan hidup hingga saat ini dan termasuk dalam klasifikasi satwa kritis yang terancam punah."
+  },
+  {
+    "judul": "Jerapah",
+    "subJudul": "Hewan Tertinggi di Dunia",
+    "rating": 4.5,
+    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/jerapah.jpg",
+    "deskripsi": "Jerapah adalah mamalia berleher panjang yang berasal dari Afrika. Lehernya yang sangat panjang memungkinkannya mencapai daun-daun di pohon tinggi yang tidak bisa dijangkau oleh hewan lain."
+  },
+  {
+    "judul": "Panda Raksasa",
+    "subJudul": "Ikon Konservasi dari Tiongkok",
+    "rating": 4.6,
+    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/panda.jpg",
+    "deskripsi": "Panda Raksasa adalah beruang yang berasal dari Tiongkok tengah. Ia mudah dikenali dari lingkaran hitam besar di sekitar mata, di atas telinga, dan di seluruh tubuhnya yang bulat. Makanannya hampir secara eksklusif terdiri dari bambu."
+  },
+  {
+    "judul": "Zebra",
+    "subJudul": "Kuda Belang dari Sabana",
+    "rating": 4.4,
+    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/zebra.jpg",
+    "deskripsi": "Zebra terkenal dengan corak bulu hitam-putihnya yang khas. Pola belang pada setiap zebra adalah unik, sama seperti sidik jari pada manusia. Mereka adalah hewan sosial yang hidup dalam kawanan besar di padang rumput Afrika."
+  },
+  {
+    "judul": "Komodo",
+    "subJudul": "Kadal Terbesar di Dunia",
+    "rating": 4.8,
+    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/komodo.jpg",
+    "deskripsi": "Komodo (Varanus komodoensis) adalah spesies kadal terbesar di dunia yang hidup di pulau Komodo, Rinca, Flores, Gili Motang, dan Gili Dasami di Provinsi Nusa Tenggara Timur, Indonesia. Biawak ini oleh penduduk asli pulau Komodo juga disebut 'Ora'."
+  },
+  {
+    "judul": "Orangutan",
+    "subJudul": "Manusia Hutan Kalimantan",
+    "rating": 4.7,
+    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/orangutan.jpg",
+    "deskripsi": "Orangutan adalah primata besar dengan lengan panjang dan bulu berwarna kemerahan. Mereka adalah hewan arboreal (hidup di pohon) terbesar dan menghabiskan sebagian besar waktunya di pepohonan hutan hujan di Kalimantan dan Sumatra."
+  }
+]
