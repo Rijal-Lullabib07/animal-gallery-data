@@ -3,56 +3,86 @@
     "judul": "Singa",
     "subJudul": "Raja Hutan dari Afrika",
     "rating": 4.8,
-    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/singa.jpg",
-    "deskripsi": "Singa (Panthera leo) adalah spesies hewan dari keluarga felidae atau jenis kucing. Singa merupakan hewan yang hidup dalam kelompok. Biasanya terdiri dari seekor jantan dan banyak betina. Kelompok ini menjaga dan memburu mangsa bersama."
+    "imageUrl": "https://your-github-username.github.io/your-repo-name/images/singa.jpg",
+    "deskripsi": "Singa (Panthera leo) adalah spesies hewan dari keluarga felidae atau jenis kucing. Singa merupakan hewan yang hidup dalam kelompok. Biasanya terdiri dari seekor jantan dan banyak betina. Kelompok ini menjaga dan memburu mangsa bersama.",
+    "habitat": "Savana Afrika",
+    "statusKonservasi": "Rentan",
+    "faktaMenarik": ["Singa jantan memiliki surai", "Hidup berkelompok"]
   },
   {
     "judul": "Gajah",
     "subJudul": "Mamalia Darat Terbesar",
     "rating": 4.7,
-    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/gajah.jpg",
-    "deskripsi": "Gajah adalah mamalia darat terbesar di dunia. Mereka dikenal karena belalainya yang panjang, yang digunakan untuk berbagai hal seperti bernapas, mengambil air, dan mengambil benda. Gading mereka yang berharga sering menjadi target perburuan liar."
+    "imageUrl": "https://your-github-username.github.io/your-repo-name/images/gajah.jpg",
+    "deskripsi": "Gajah adalah mamalia darat terbesar di dunia. Mereka dikenal karena belalainya yang panjang, yang digunakan untuk berbagai hal seperti bernapas, mengambil air, dan mengambil benda. Gading mereka yang berharga sering menjadi target perburuan liar.",
+    "habitat": "Asia dan Afrika",
+    "statusKonservasi": "Terancam Punah",
+    "faktaMenarik": ["Belalai multifungsi", "Gading dari gigi seri"]
   },
   {
     "judul": "Harimau Sumatra",
     "subJudul": "Kucing Besar Asli Indonesia",
     "rating": 4.9,
-    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/harimau.jpg",
-    "deskripsi": "Harimau Sumatra (Panthera tigris sumatrae) adalah subspesies harimau yang habitat aslinya di pulau Sumatra. Ia merupakan salah satu dari enam subspesies harimau yang masih bertahan hidup hingga saat ini dan termasuk dalam klasifikasi satwa kritis yang terancam punah."
+    "imageUrl": "https://your-github-username.github.io/your-repo-name/images/harimau.jpg",
+    "deskripsi": "Harimau Sumatra (Panthera tigris sumatrae) adalah subspesies harimau yang habitat aslinya di pulau Sumatra. Ia merupakan salah satu dari enam subspesies harimau yang masih bertahan hidup hingga saat ini dan termasuk dalam klasifikasi satwa kritis yang terancam punah.",
+    "habitat": "Hutan Hujan Sumatra",
+    "statusKonservasi": "Kritis",
+    "faktaMenarik": ["Corak loreng unik", "Perenang handal"]
   },
   {
     "judul": "Jerapah",
     "subJudul": "Hewan Tertinggi di Dunia",
     "rating": 4.5,
-    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/jerapah.jpg",
-    "deskripsi": "Jerapah adalah mamalia berleher panjang yang berasal dari Afrika. Lehernya yang sangat panjang memungkinkannya mencapai daun-daun di pohon tinggi yang tidak bisa dijangkau oleh hewan lain."
+    "imageUrl": "https://your-github-username.github.io/your-repo-name/images/jerapah.jpg",
+    "deskripsi": "Jerapah adalah mamalia berleher panjang yang berasal dari Afrika. Lehernya yang sangat panjang memungkinkannya mencapai daun-daun di pohon tinggi yang tidak bisa dijangkau oleh hewan lain.",
+    "habitat": "Savana Afrika",
+    "statusKonservasi": "Rentan",
+    "faktaMenarik": ["Tinggi hingga 5.5 meter", "Lidah biru sepanjang 45 cm"]
   },
   {
     "judul": "Panda Raksasa",
     "subJudul": "Ikon Konservasi dari Tiongkok",
     "rating": 4.6,
-    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/panda.jpg",
-    "deskripsi": "Panda Raksasa adalah beruang yang berasal dari Tiongkok tengah. Ia mudah dikenali dari lingkaran hitam besar di sekitar mata, di atas telinga, dan di seluruh tubuhnya yang bulat. Makanannya hampir secara eksklusif terdiri dari bambu."
+    "imageUrl": "https://your-github-username.github.io/your-repo-name/images/panda.jpg",
+    "deskripsi": "Panda Raksasa adalah beruang yang berasal dari Tiongkok tengah. Ia mudah dikenali dari lingkaran hitam besar di sekitar mata, di atas telinga, dan di seluruh tubuhnya yang bulat. Makanannya hampir secara eksklusif terdiri dari bambu.",
+    "habitat": "Pegunungan Tiongkok",
+    "statusKonservasi": "Rentan",
+    "faktaMenarik": ["Hampir punah", "Makan 12-16 jam sehari"]
   },
   {
     "judul": "Zebra",
     "subJudul": "Kuda Belang dari Sabana",
     "rating": 4.4,
-    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/zebra.jpg",
-    "deskripsi": "Zebra terkenal dengan corak bulu hitam-putihnya yang khas. Pola belang pada setiap zebra adalah unik, sama seperti sidik jari pada manusia. Mereka adalah hewan sosial yang hidup dalam kawanan besar di padang rumput Afrika."
+    "imageUrl": "https://your-github-username.github.io/your-repo-name/images/zebra.jpg",
+    "deskripsi": "Zebra terkenal dengan corak bulu hitam-putihnya yang khas. Pola belang pada setiap zebra adalah unik, sama seperti sidik jari pada manusia. Mereka adalah hewan sosial yang hidup dalam kawanan besar di padang rumput Afrika.",
+    "habitat": "Padang Rumput Afrika",
+    "statusKonservasi": "Hampir Terancam",
+    "faktaMenarik": [
+      "Belang unik tiap individu",
+      "Sering berkelompok dengan Wildebeest"
+    ]
   },
   {
     "judul": "Komodo",
     "subJudul": "Kadal Terbesar di Dunia",
     "rating": 4.8,
-    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/komodo.jpg",
-    "deskripsi": "Komodo (Varanus komodoensis) adalah spesies kadal terbesar di dunia yang hidup di pulau Komodo, Rinca, Flores, Gili Motang, dan Gili Dasami di Provinsi Nusa Tenggara Timur, Indonesia. Biawak ini oleh penduduk asli pulau Komodo juga disebut 'Ora'."
+    "imageUrl": "https://your-github-username.github.io/your-repo-name/images/komodo.jpg",
+    "deskripsi": "Komodo (Varanus komodoensis) adalah spesies kadal terbesar di dunia yang hidup di pulau Komodo, Rinca, Flores, Gili Motang, dan Gili Dasami di Provinsi Nusa Tenggara Timur, Indonesia. Biawak ini oleh penduduk asli pulau Komodo juga disebut 'Ora'.",
+    "habitat": "Pulau-pulau Indonesia",
+    "statusKonservasi": "Rentan",
+    "faktaMenarik": ["Gigitan beracun", "Mampu lari cepat"]
   },
   {
     "judul": "Orangutan",
     "subJudul": "Manusia Hutan Kalimantan",
     "rating": 4.7,
-    "imageUrl": "https://github.com/Rijal-Lullabib07/animal-gallery-data/blob/main/orangutan.jpg",
-    "deskripsi": "Orangutan adalah primata besar dengan lengan panjang dan bulu berwarna kemerahan. Mereka adalah hewan arboreal (hidup di pohon) terbesar dan menghabiskan sebagian besar waktunya di pepohonan hutan hujan di Kalimantan dan Sumatra."
+    "imageUrl": "https://your-github-username.github.io/your-repo-name/images/orangutan.jpg",
+    "deskripsi": "Orangutan adalah primata besar dengan lengan panjang dan bulu berwarna kemerahan. Mereka adalah hewan arboreal (hidup di pohon) terbesar dan menghabiskan sebagian besar waktunya di pepohonan hutan hujan di Kalimantan dan Sumatra.",
+    "habitat": "Hutan Hujan Kalimantan & Sumatra",
+    "statusKonservasi": "Kritis",
+    "faktaMenarik": [
+      "Arboreal (hidup di pohon)",
+      "Lengan panjang untuk berayun"
+    ]
   }
 ]
